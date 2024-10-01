@@ -2,6 +2,5 @@
 All the best .
 hiiii
 
-# Suchi
-hello my name is Suchi .
+# Suchi .
 main
